@@ -11,8 +11,7 @@
  running:
  
  1- Open the terminal
- 2- change the directory to the file containing makefile.sh:
-  $cd 7154-lab2.tar.gz
+ 2- change the directory to the file containing makefile.sh
  3- type the command $make in shell
  4- to exit press ctrl+C
  
